@@ -59,9 +59,17 @@
 
 <div align="center">
 
-## 👀 Profile Views
+## 🏅 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=jagseeun&label=Profile+Views&color=ff69b4&style=flat" />
+<img
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
+/>
 
 </div>
 
@@ -69,9 +77,23 @@
 
 <div align="center">
 
-## 🌱 Currently Learning
+## 🌱 Activity Graph
 
-Spring Boot • React • Flask • Database Design
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=jagseeun&theme=github-compact"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 👀 Profile Views
+
+<img
+src="https://komarev.com/ghpvc/?username=jagseeun&label=Profile+Views&color=ff69b4&style=flat"
+/>
 
 </div>
 
@@ -81,6 +103,6 @@ Spring Boot • React • Flask • Database Design
 
 ## 💭 Motto
 
-"보이지 않는 편리함을 만드는 개발자"
+보이지 않는 편리함을 만드는 개발자
 
 </div>
