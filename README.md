@@ -3,71 +3,84 @@
 </div>
 
 <div align="center">
-  <h2>👋 hello, jagseeun world!</h2>
-  <p>
-    보이지 않는 편리함을 완성하는 개발자 장세은입니다.
-  </p>
+
+# 👋 hello, jagseeun world!
+
+보이지 않는 편리함을 완성하는 개발자 장세은입니다.
+
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🛠️ Tech Stacks</h2>
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+## 🛠️ Tech Stacks
 
-  <br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square">
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<br>
 
-  <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+
 </div>
 
 <br>
 
 <div align="center">
-  <h2>📫 Contact Me</h2>
 
-  <a href="mailto:s2468@e-mirim.hs.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+## 📫 Contact Me
 
-  <a href="https://www.instagram.com/jagseeun">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-  </a>
+<a href="mailto:s2468@e-mirim.hs.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/jagseeun">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🏅 GitHub Stats</h2>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"
-  />
+## 🌱 Activity
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagseeun&theme=github-compact" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagseeun&theme=radical&row=1&column=6" />
+
+## 🏆 Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=jagseeun&theme=flat&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📈 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=jagseeun&label=Profile+Views&color=ff69b4&style=flat" />
+
 </div>
