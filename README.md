@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 
-<br><br>
+<br>
 
 ### Backend
 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 
-<br><br>
+<br>
 
 ### Database
 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 
-<br><br>
+<br>
 
 ### Tools
 
