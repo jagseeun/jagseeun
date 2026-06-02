@@ -61,15 +61,11 @@
 
 ## 🏅 GitHub Stats
 
-<img
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"
-/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"/>
 
-<img
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
-/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"/>
 
 </div>
 
@@ -77,32 +73,13 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 
 <div align="center">
 
-## 🌱 Activity Graph
+## 🚀 Projects
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=jagseeun&theme=github-compact"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 👀 Profile Views
-
-<img
-src="https://komarev.com/ghpvc/?username=jagseeun&label=Profile+Views&color=ff69b4&style=flat"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 💭 Motto
-
-보이지 않는 편리함을 만드는 개발자
+| Project | Description |
+|----------|----------|
+| 🌸 [DearMe-DearYou](https://github.com/jagseeun/DearMe-DearYou) | 미래의 나에게 편지를 보내는 서비스 |
+| 🎤 [SpeakLog](https://github.com/jagseeun/speaklog) | 음성 기록 및 분석 서비스 |
+| 🖼️ [NP_MyPic](https://github.com/jagseeun/np_mypic) | 사진 관리 프로젝트 |
+| 📚 [RetroStudy](https://github.com/jagseeun/retrostudy) | 학습 관리 서비스 |
 
 </div>
