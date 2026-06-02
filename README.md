@@ -59,28 +59,28 @@
 
 <div align="center">
 
-## 🌱 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagseeun&theme=github-compact" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🏆 Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagseeun&theme=flat&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📈 Profile Views
+## 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=jagseeun&label=Profile+Views&color=ff69b4&style=flat" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+Spring Boot • React • Flask • Database Design
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💭 Motto
+
+"보이지 않는 편리함을 만드는 개발자"
 
 </div>
