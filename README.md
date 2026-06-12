@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 hello, jagseeun world!
+# hello, jagseeun world!
 
 보이지 않는 편리함을 완성하는 개발자 장세은입니다.
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 ### Frontend
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## 📫 Contact Me
+## Contact Me
 
 <a href="mailto:s2468@e-mirim.hs.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-## 🏅 GitHub Stats
+## GitHub Stats
 
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"/>
@@ -87,7 +87,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 
 <div align="center">
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |----------|----------|
