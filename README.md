@@ -75,11 +75,15 @@
 
 ## GitHub Stats
 
-<img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagseeun&show_icons=true&theme=radical"/>
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api?username=jagseeun&show_icons=true&theme=radical&commits_year=2026"
+/>
 
-<img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"/>
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
+/>
 
 </div>
 
@@ -90,7 +94,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 ## Projects
 
 | Project | Description |
-|----------|----------|
+|----------|-------------|
 | 🌸 [DearMe-DearYou](https://github.com/jagseeun/DearMe-DearYou) | 미래의 나와 소중한 사람에게 마음을 전하는 디지털 편지 플랫폼 |
 | 🎤 [SpeakLog](https://github.com/jagseeun/speaklog) | 말하기 기반 복습으로 학습 내용을 정리하는 학습 서비스 |
 | 🖼️ [NP_MyPic](https://github.com/jagseeun/np_mypic) | 사진과 메모를 함께 기록하는 개인 갤러리 서비스 |
