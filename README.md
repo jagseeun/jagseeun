@@ -59,12 +59,11 @@
 
 ## Certifications
 
-🐍 **COS Pro Python 2급**
-💻 **프로그래밍기능사**
+🐍 **COS Pro Python 2급**  
+💻 **프로그래밍기능사**  
 🗄️ **SQLD (SQL Developer)** · Result Pending
 
 </div>
-
 <br>
 
 <div align="center">
