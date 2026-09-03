@@ -59,9 +59,9 @@
 
 ## Certifications
 
-🐍 **COS Pro Python 2급**  
-💻 **프로그래밍기능사**  
-🗄️ **SQLD (SQL Developer)** · Result Pending
+🐍 COS Pro Python 2급  · 2025.08 취득 <br>
+💻 프로그래밍기능사  · 2026.07 취득 <br> 
+🗄️ SQLD (SQL Developer) · Result Pending
 
 </div>
 <br>
