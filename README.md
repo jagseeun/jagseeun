@@ -57,15 +57,26 @@
 
 <div align="center">
 
-## Contact Me
+## Certifications
 
-<a href="mailto:s2468@e-mirim.hs.kr">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
+🐍 **COS Pro Python 2급**
+💻 **프로그래밍기능사**
+🗄️ **SQLD (SQL Developer)** · Result Pending
 
-<a href="https://www.instagram.com/jagseeun">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
+</div>
+
+<br>
+
+<div align="center">
+
+## Projects
+
+| Project                                                         | Description                        |
+| --------------------------------------------------------------- | ---------------------------------- |
+| 🌸 [DearMe-DearYou](https://github.com/jagseeun/DearMe-DearYou) | 미래의 나와 소중한 사람에게 마음을 전하는 디지털 편지 플랫폼 |
+| 🎤 [SpeakLog](https://github.com/jagseeun/speaklog)             | 말하기 기반 복습으로 학습 내용을 정리하는 학습 서비스     |
+| 🖼️ [NP_MyPic](https://github.com/jagseeun/np_mypic)            | 사진과 메모를 함께 기록하는 개인 갤러리 서비스         |
+| 📚 [RetroStudy](https://github.com/jagseeun/retrostudy)         | 학습 데이터를 시각화하여 성장 과정을 관리하는 스터디 플랫폼  |
 
 </div>
 
@@ -76,13 +87,13 @@
 ## GitHub Stats
 
 <img
-  height="180em"
-  src="https://github-stats-extended.vercel.app/api?username=jagseeun&show_icons=true&theme=radical&commits_year=2026"
+height="180em"
+src="https://github-stats-extended.vercel.app/api?username=jagseeun&show_icons=true&theme=radical&commits_year=2026"
 />
 
 <img
-  height="180em"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
+height="180em"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=jagseeun&layout=compact&theme=radical"
 />
 
 </div>
@@ -91,13 +102,14 @@
 
 <div align="center">
 
-## Projects
+## Contact Me
 
-| Project | Description |
-|----------|-------------|
-| 🌸 [DearMe-DearYou](https://github.com/jagseeun/DearMe-DearYou) | 미래의 나와 소중한 사람에게 마음을 전하는 디지털 편지 플랫폼 |
-| 🎤 [SpeakLog](https://github.com/jagseeun/speaklog) | 말하기 기반 복습으로 학습 내용을 정리하는 학습 서비스 |
-| 🖼️ [NP_MyPic](https://github.com/jagseeun/np_mypic) | 사진과 메모를 함께 기록하는 개인 갤러리 서비스 |
-| 📚 [RetroStudy](https://github.com/jagseeun/retrostudy) | 학습 데이터를 시각화하여 성장 과정을 관리하는 스터디 플랫폼 |
+<a href="mailto:s2468@e-mirim.hs.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/jagseeun">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
 
 </div>
